@@ -1,2 +1,2 @@
-# CICalculator
+# CI-Calculator
 Compounding Interest Calculator
